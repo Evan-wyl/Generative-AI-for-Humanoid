@@ -4,6 +4,11 @@
 
 Papers, tutorials.
 
+---
+
+- **[New!]** Add the new part of [Legged](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/legged.md)
+- **[New!]** Add the new part of [Manipulation](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/manipulation.md)
+
 
 
 ## Tutorials
