@@ -14,26 +14,6 @@ Papers, tutorials.
 
 ## Papers
 
-### Diffusion Models
-
-#### 2024
-
-[2024] [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503)
-
-
-
-#### 2023
-
-[2023] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137v4)
-
-
-
-#### 2022
-
-[2022] [Is Conditional Generative Modeling all you need for Decision-Making?](https://arxiv.org/abs/2211.15657)
-
-
-
 ### Flow Models
 
 #### 2023
@@ -44,6 +24,31 @@ Papers, tutorials.
 
 ### Flow Matching
 
+#### 2025
+
+[2025] [Flow Matching Policy Gradients](https://arxiv.org/abs/2507.21053)
+
 #### 2024
 
+[2024] [Fast and Robust Visuomotor Riemannian Flow Matching Policy](https://arxiv.org/abs/2412.10855)
+
 [2024] [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/abs/2410.24164)
+
+[2024] [Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matchin](https://arxiv.org/abs/2409.07343)
+
+
+
+### Diffusion Models
+
+#### 2024
+
+[2024] [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503)s
+
+#### 2023
+
+[2023] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137v4)
+
+#### 2022
+
+[2022] [Is Conditional Generative Modeling all you need for Decision-Making?](https://arxiv.org/abs/2211.15657)
+
