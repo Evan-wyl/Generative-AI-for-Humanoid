@@ -19,11 +19,6 @@ Papers, tutorials.
 
 ## Papers
 
-### Embodiment
-
-- [Legged](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/legged.md)
-- [Manipulation](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/manipulation.md)
-
 ### Flow Models
 
 #### 2023
