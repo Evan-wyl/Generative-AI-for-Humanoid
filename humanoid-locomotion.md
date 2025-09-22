@@ -8,6 +8,8 @@
 
 [2025] [BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion](https://arxiv.org/abs/2508.08241)
 
+[2025] [Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via Reinforcement Learning Augmented Diffusion](https://arxiv.org/abs/2506.11470)
+
 
 
 #### 2024
