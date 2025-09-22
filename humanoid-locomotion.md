@@ -23,7 +23,3 @@
 #### 2025
 
 [2025] [Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2509.13780)
-
-#### 2024
-
-[2024] [Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models](https://arxiv.org/abs/2308.15143)
