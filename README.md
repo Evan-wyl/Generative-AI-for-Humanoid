@@ -21,15 +21,13 @@ Papers, tutorials.
 
 ### Flow Models
 
-#### 2023
-
-[2023] [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443)
-
-
-
 #### 2025
 
 [2025] [Flow Matching Policy Gradients](https://arxiv.org/abs/2507.21053)
+
+#### 2023
+
+[2023] [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443)
 
 
 
