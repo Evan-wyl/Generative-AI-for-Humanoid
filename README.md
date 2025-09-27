@@ -8,6 +8,7 @@ Papers, tutorials.
 
 - **[New!]** Add the new part of [Humanoid Locomotion](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/humanoid-locomotion.md)
 - **[New!]** Add the new part of [Humanoid Object Interaction](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/humanoid-object-interaction.md)
+- **[New!]** Add the new part of [Humanoid Loco-manipulation](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/humanoid-loco-manipulation.md)
 - **[New!]** Add the new part of [Manipulation](https://github.com/Evan-wyl/Generative-Modeling-for-Emodied-AI/blob/master/manipulation.md)
 
 
